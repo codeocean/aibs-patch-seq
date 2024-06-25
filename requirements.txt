@@ -1,0 +1,3 @@
+git+https://github.com/AllenInstitute/ipfx#egg=ipfx
+pyarrow
+umap
