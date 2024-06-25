@@ -1,0 +1,8 @@
+name: patch-seq-demo
+channels:
+  - conda-forge
+dependencies:
+  - pyarrow
+  - pip:
+    - git+https://github.com/AllenInstitute/ipfx#egg=ipfx
+    - umap
